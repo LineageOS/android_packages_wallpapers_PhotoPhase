@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "ba0121b8_c43b7b9b",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-21T11:03:38Z",
+      "side": 1,
+      "message": "- Set the brightness to balance visualization and battery performance\n\n-for",
+      "revId": "6decf9218e5cb4783fe48626c384afcd67a14228",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_04461323",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-21T11:03:38Z",
+      "side": 1,
+      "message": "- Select albums to be displayed, refresh interval and other media settings",
+      "revId": "6decf9218e5cb4783fe48626c384afcd67a14228",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba0121b8_4465abdf",
         "filename": "res/values/strings.xml",
         "patchSetId": 2
@@ -13,6 +47,24 @@
       "writtenOn": "2014-06-21T09:48:25Z",
       "side": 1,
       "message": "re-layout maybe?",
+      "revId": "6decf9218e5cb4783fe48626c384afcd67a14228",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_644b8f2c",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-21T11:03:38Z",
+      "side": 1,
+      "message": "relayout -\u003e change",
+      "parentUuid": "ba0121b8_4465abdf",
       "revId": "6decf9218e5cb4783fe48626c384afcd67a14228",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -47,6 +99,23 @@
       "writtenOn": "2014-06-21T09:48:25Z",
       "side": 1,
       "message": "arranged*",
+      "revId": "6decf9218e5cb4783fe48626c384afcd67a14228",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_c4625bad",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-21T11:03:38Z",
+      "side": 1,
+      "message": "- Fisheye\n\nhttp://en.wikipedia.org/wiki/Fisheye_lens",
       "revId": "6decf9218e5cb4783fe48626c384afcd67a14228",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
