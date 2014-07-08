@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_a64d8c74",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-07-08T22:10:06Z",
+      "side": 1,
+      "message": "I\u0027d like to nuke this one as well, because I\u0027m not sure how wallpaper dimming relates to battery performance. IMHO, just the value is sufficient. Thoughts on this?",
+      "revId": "b39fb120017fc938099fb324afae2e89f1bb81df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
