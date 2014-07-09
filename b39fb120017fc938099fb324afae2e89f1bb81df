@@ -16,6 +16,24 @@
       "revId": "b39fb120017fc938099fb324afae2e89f1bb81df",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_2627bc13",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2014-07-09T09:40:00Z",
+      "side": 1,
+      "message": "Yes, you can nuke it",
+      "parentUuid": "ba0121b8_a64d8c74",
+      "revId": "b39fb120017fc938099fb324afae2e89f1bb81df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
