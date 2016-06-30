@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_8ed77c24",
+        "filename": "src/org/cyanogenmod/wallpapers/photophase/TextureManager.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2016-06-30T21:34:28Z",
+      "side": 1,
+      "message": "there is race condition if ondraw checking this status if we did not set it right now.",
+      "revId": "3b6c5f9be3b355b93ac7e0fd190db9b9b517c072",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
