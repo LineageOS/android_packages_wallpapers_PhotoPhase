@@ -87,8 +87,8 @@
   <!-- [2 lines one for describe long tap and another for describe swipe] -->
   <string name="pref_disposition_description">長按畫框並且拖曳\u0026 至其邊界。左右滑動即可顯示已定義的範本</string>
   <string name="pref_disposition_template">範本 <xliff:g id="number_of_template">%1$s</xliff:g> 中的 <xliff:g id="total_of_templates">%2$s</xliff:g></string>
-  <string name="pref_disposition_unable_delete_advise">無法刪除所選的畫框</string>
-  <string name="pref_about">關於</string>
+  <string name="pref_disposition_unable_delete_advise">無法刪除已選取的畫框</string>
+  <string name="pref_about">相關資訊</string>
   <string name="pref_about_summary">PhotoPhase v<xliff:g id="version">%1$s</xliff:g>\n版權所有 \u00A9 2014 CyanogenMod 計畫</string>
   <!-- Refresh intervals -->
   <string name="refresh_intervals_disabled">已停用</string>
@@ -127,7 +127,7 @@
   <string name="effects_grayscale">灰階</string>
   <string name="effects_halftone">半色調</string>
   <string name="effects_lomoish">Lomo 風格</string>
-  <string name="effects_mirror">鏡像</string>
+  <string name="effects_mirror">鏡子</string>
   <string name="effects_negative">負片</string>
   <string name="effects_outline">輪廓</string>
   <string name="effects_pixelate">像素化</string>

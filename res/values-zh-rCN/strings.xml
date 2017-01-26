@@ -42,22 +42,22 @@
   <string name="format_dim">%s%%</string>
   <!-- Preferences -->
   <string name="pref_general">常规</string>
-  <string name="pref_general_summary">常规设置、 效果和过渡</string>
+  <string name="pref_general_summary">常规设置、效果和过渡</string>
   <string name="pref_general_settings">设置</string>
   <string name="pref_general_settings_wallpaper_dim">壁纸模糊</string>
   <string name="pref_general_settings_background_color">背景颜色</string>
   <string name="pref_general_settings_background_color_summary">设置背景颜色</string>
   <string name="pref_general_touch_action">触摸操作</string>
-  <string name="pref_general_touch_action_summary_format">当您触摸画框时 <xliff:g id="action_summary">%1$s</xliff:g></string>
+  <string name="pref_general_touch_action_summary_format">您触摸画框时<xliff:g id="action_summary">%1$s</xliff:g></string>
   <string name="pref_general_aspect_ratio_correction">长宽比</string>
   <string name="pref_general_aspect_ratio_correction_summary">尝试通过裁剪图片固定纵横比以适应目标画框</string>
   <string name="pref_general_transitions">过渡</string>
   <string name="pref_general_transitions_types">类型</string>
-  <string name="pref_general_transitions_types_summary_format">已选择 <xliff:g id="total">%2$d</xliff:g> 个中的 <xliff:g id="selected">%1$d</xliff:g> 个类型</string>
+  <string name="pref_general_transitions_types_summary_format">已选择 <xliff:g id="selected">%1$d</xliff:g> / <xliff:g id="total">%2$d</xliff:g> 个类型</string>
   <string name="pref_general_transitions_interval">间隔</string>
   <string name="pref_general_effects">特效</string>
   <string name="pref_general_effects_types">类型</string>
-  <string name="pref_general_effects_types_summary_format">已选择 <xliff:g id="total">%2$d</xliff:g> 个中的 <xliff:g id="selected">%1$d</xliff:g> 个图片效果</string>
+  <string name="pref_general_effects_types_summary_format">已选择 <xliff:g id="selected">%1$d</xliff:g> / <xliff:g id="total">%2$d</xliff:g> 个图片效果</string>
   <string name="pref_media">媒体</string>
   <string name="pref_media_summary">专辑显示、刷新间隔和其他媒体设置</string>
   <string name="pref_media_settings">设置</string>
@@ -86,7 +86,7 @@
   <string name="disposition_orientation_landscape">横向</string>
   <!-- [2 lines one for describe long tap and another for describe swipe] -->
   <string name="pref_disposition_description">长按一个画框并拖放其边界。左右滑动以显示已定义的模板</string>
-  <string name="pref_disposition_template">模板 <xliff:g id="number_of_template">%1$s</xliff:g> 的 <xliff:g id="total_of_templates">%2$s</xliff:g></string>
+  <string name="pref_disposition_template">模板 <xliff:g id="number_of_template">%1$s</xliff:g> / <xliff:g id="total_of_templates">%2$s</xliff:g></string>
   <string name="pref_disposition_unable_delete_advise">无法删除选定的画框</string>
   <string name="pref_about">关于</string>
   <string name="pref_about_summary">PhotoPhase v<xliff:g id="version">%1$s</xliff:g> \n版权所有 \u00A9 2014 CyanogenMod 项目</string>
@@ -145,5 +145,5 @@
   <string name="color_picker_new_text">新:</string>
   <string name="color_picker_color">颜色:</string>
   <!-- Changelog dialog -->
-  <string name="changelog_title">更改记录</string>
+  <string name="changelog_title">变更记录</string>
 </resources>
