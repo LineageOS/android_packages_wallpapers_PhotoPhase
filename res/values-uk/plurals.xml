@@ -19,13 +19,13 @@
   <!-- Number of pictures found in an album -->
   <plurals name="album_number_of_pictures">
     <item quantity="one">1 зображення</item>
-    <item quantity="few"><xliff:g id="pictures" example="7">%d</xliff:g> зображень</item>
+    <item quantity="few"><xliff:g id="pictures" example="7">%d</xliff:g> зображення</item>
     <item quantity="other"><xliff:g id="pictures" example="7">%d</xliff:g> зображень</item>
   </plurals>
   <!-- Total of pictures found after a media reload -->
   <plurals name="msg_media_reload_complete">
     <item quantity="one">Пересканування медіа завершено. 1 зображення знайдено.</item>
-    <item quantity="few">Пересканування медіа завершено. <xliff:g id="pictures" example="7">%d</xliff:g> зображень знайдено.</item>
+    <item quantity="few">Пересканування медіа завершено. <xliff:g id="pictures" example="7">%d</xliff:g> зображення знайдено.</item>
     <item quantity="other">Пересканування медіа завершено. <xliff:g id="pictures" example="7">%d</xliff:g> зображень знайдено.</item>
   </plurals>
 </resources>

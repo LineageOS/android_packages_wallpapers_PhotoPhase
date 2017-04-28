@@ -25,8 +25,8 @@
   <string name="runtime_permission_warning">La aplicación no se puede ejecutar sin permiso para leer el almacenamiento externo.</string>
   <!-- Menus -->
   <string name="mnu_restore">Restaurar</string>
-  <string name="mnu_delete">Eliminar</string>
-  <string name="mnu_settings">Opciones</string>
+  <string name="mnu_delete">Borrar</string>
+  <string name="mnu_settings">Ajustes</string>
   <string name="mnu_select_all">Seleccionar todas</string>
   <string name="mnu_deselect_all">Anular selección de todo</string>
   <string name="mnu_invert">Invertir</string>
@@ -43,7 +43,7 @@
   <!-- Preferences -->
   <string name="pref_general">General</string>
   <string name="pref_general_summary">Ajustes generales, efectos y transiciones</string>
-  <string name="pref_general_settings">Opciones</string>
+  <string name="pref_general_settings">Ajustes</string>
   <string name="pref_general_settings_wallpaper_dim">Fondo de pantalla dim</string>
   <string name="pref_general_settings_background_color">Color de fondo</string>
   <string name="pref_general_settings_background_color_summary">Establecer el color de fondo</string>
@@ -59,8 +59,8 @@
   <string name="pref_general_effects_types">Tipos</string>
   <string name="pref_general_effects_types_summary_format"><xliff:g id="selected">%1$d </xliff:g> de <xliff:g id="total">%2$d </xliff:g> efectos de imagen seleccionado</string>
   <string name="pref_media">Multimedia</string>
-  <string name="pref_media_summary">Álbumes que se mostrarán, intervalo de actualización y otros ajustes de los medios</string>
-  <string name="pref_media_settings">Opciones</string>
+  <string name="pref_media_summary">Álbumes que se mostrarán, intervalo de actualización y otros ajustes multimedia</string>
+  <string name="pref_media_settings">Ajustes</string>
   <string name="pref_media_settings_refresh_interval">Intervalo de actualización</string>
   <string name="pref_media_settings_refresh_interval_disable">La búsqueda de nuevas imágenes está desactivada</string>
   <string name="pref_media_settings_refresh_interval_summary">Buscar nuevas fotos cada <xliff:g id="interval">%1$s</xliff:g></string>
@@ -70,7 +70,7 @@
   <string name="pref_media_albums">Álbumes</string>
   <string name="pref_media_albums_summary">Establecer los álbumes e imágenes a mostrar en el fondo de pantalla</string>
   <string name="pref_media_auto_select_new">Seleccionar álbumes autom.</string>
-  <string name="pref_media_auto_select_new_summary">Seleccionar automáticamente los nuevos álbumes cuando se descubran nuevos elementos en los medios</string>
+  <string name="pref_media_auto_select_new_summary">Seleccionar automáticamente los nuevos álbumes al descubrir nuevos elementos multimedia</string>
   <string name="pref_layout">Diseño</string>
   <string name="pref_layout_summary">Posicionar la imágen en la pantalla</string>
   <string name="pref_layout_disposition">Disposición</string>
@@ -86,9 +86,9 @@
   <string name="disposition_orientation_portrait">orientación vertical</string>
   <string name="disposition_orientation_landscape">orientación horizontal</string>
   <!-- [2 lines one for describe long tap and another for describe swipe] -->
-  <string name="pref_disposition_description">Presionar una celda y arrastrar los bordes. Deslizar a la izquierda y derecha para ver las plantillas predefinidas</string>
+  <string name="pref_disposition_description">Pulsa una celda y arrastra los bordes. Desliza a la izquierda y derecha para ver las plantillas predefinidas</string>
   <string name="pref_disposition_template">Plantilla <xliff:g id="number_of_template">%1$s</xliff:g> de <xliff:g id="total_of_templates">%2$s</xliff:g></string>
-  <string name="pref_disposition_unable_delete_advise">No se puede eliminar el fotograma seleccionado</string>
+  <string name="pref_disposition_unable_delete_advise">No se puede borrar el fotograma seleccionado</string>
   <string name="pref_about">Acerca de</string>
   <string name="pref_about_summary">PhotoPhase v<xliff:g id="version">%1$s</xliff:g>\nCopyright \u00A9 2014 The CyanogenMod Project</string>
   <!-- Refresh intervals -->

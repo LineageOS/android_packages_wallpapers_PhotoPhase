@@ -59,7 +59,7 @@
   <string name="pref_general_effects_types">Tipus</string>
   <string name="pref_general_effects_types_summary_format"><xliff:g id="selected">%1$d</xliff:g> de <xliff:g id="total">%2$d</xliff:g> efectes d\'imatge seleccionats</string>
   <string name="pref_media">Multimèdia</string>
-  <string name="pref_media_summary">Àlbums a ser mostrats, interval d\'actualització, i altres ajustaments multimèdia</string>
+  <string name="pref_media_summary">Àlbums a ser mostrats, interval d\'actualització, i altres configuracions multimèdia</string>
   <string name="pref_media_settings">Configuració</string>
   <string name="pref_media_settings_refresh_interval">Interval d\'actualització</string>
   <string name="pref_media_settings_refresh_interval_disable">La cerca de noves fotografies està desactivada</string>

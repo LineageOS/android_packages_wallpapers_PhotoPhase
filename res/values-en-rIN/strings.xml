@@ -22,6 +22,7 @@
   <!-- No images message -->
   <string name="no_pictures_oops_msg">No pictures found</string>
   <!-- runtime permission warning -->
+  <string name="runtime_permission_warning">The app cannot run without permission to read the external storage.</string>
   <!-- Menus -->
   <string name="mnu_restore">Restore</string>
   <string name="mnu_delete">Delete</string>

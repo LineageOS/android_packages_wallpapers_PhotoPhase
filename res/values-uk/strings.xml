@@ -81,7 +81,7 @@
   <string name="pref_disposition_landscape">Альбомна композиція</string>
   <plurals name="pref_disposition_summary_format">
     <item quantity="one">1 зображення відображається у <xliff:g id="orientation">%2$s</xliff:g></item>
-    <item quantity="few"><xliff:g id="count">%1$d</xliff:g> зображень відображається у <xliff:g id="orientation">%2$s</xliff:g></item>
+    <item quantity="few"><xliff:g id="count">%1$d</xliff:g> зображення відображається у <xliff:g id="orientation">%2$s</xliff:g></item>
     <item quantity="other"><xliff:g id="count">%1$d</xliff:g> зображень відображається у <xliff:g id="orientation">%2$s</xliff:g></item>
   </plurals>
   <string name="disposition_orientation_portrait">портретна орієнтація</string>
