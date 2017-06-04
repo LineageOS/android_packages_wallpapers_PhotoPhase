@@ -46,6 +46,7 @@
   <string name="pref_general_settings">Axustes</string>
   <string name="pref_general_settings_background_color">Color de fondu</string>
   <string name="pref_general_settings_background_color_summary">Afita\'l color de fondu</string>
+  <string name="pref_general_touch_action">Aición al tocar</string>
   <string name="pref_general_touch_action_summary_format"><xliff:g id="action_summary">%1$s</xliff:g> al tocar un marcu</string>
   <string name="pref_general_aspect_ratio_correction">Rellación d\'aspeutu</string>
   <string name="pref_general_aspect_ratio_correction_summary">Tenta d\'iguar la rellación d\'aspeutu de la semeya recortándola p\'axustala nel marcu de destín</string>
