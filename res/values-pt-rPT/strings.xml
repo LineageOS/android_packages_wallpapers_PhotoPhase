@@ -24,7 +24,7 @@
   <!-- runtime permission warning -->
   <string name="runtime_permission_warning">Esta aplicação não funciona sem permissão para ler o armazenamento externo.</string>
   <!-- Menus -->
-  <string name="mnu_restore">Restaurar</string>
+  <string name="mnu_restore">Repor</string>
   <string name="mnu_delete">Eliminar</string>
   <string name="mnu_settings">Definições</string>
   <string name="mnu_select_all">Selecionar tudo</string>

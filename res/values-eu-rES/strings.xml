@@ -86,7 +86,7 @@
   <string name="disposition_orientation_portrait">Kokaleku bertikala</string>
   <string name="disposition_orientation_landscape">Kokaleku horizontala</string>
   <!-- [2 lines one for describe long tap and another for describe swipe] -->
-  <string name="pref_disposition_description">Luze sakatu gelaxka eta bere ertzak mugitu. Pasatu hatza ezkerrera eta eskumara definitutako txantiloiak ikusteko</string>
+  <string name="pref_disposition_description">Luze sakatu gelaxka eta bere ertzak mugitu. Pasatu hatza ezkerrera eta eskuinera definitutako txantiloiak ikusteko</string>
   <string name="pref_disposition_template"><xliff:g id="total_of_templates">%2$s</xliff:g> -(e)tik <xliff:g id="number_of_template">%1$s</xliff:g>. txantiloia</string>
   <string name="pref_disposition_unable_delete_advise">Ezin izan da hautatutako gelaxka ezabatu</string>
   <string name="pref_about">Honi buruz</string>
