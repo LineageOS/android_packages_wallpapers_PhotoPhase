@@ -59,7 +59,7 @@
   <string name="pref_general_effects_types">Tipos</string>
   <string name="pref_general_effects_types_summary_format"><xliff:g id="selected">%1$d</xliff:g> de <xliff:g id="total">%2$d</xliff:g> efeitos selecionados</string>
   <string name="pref_media">Multimédia</string>
-  <string name="pref_media_summary">Álbuns exibidos, intervalo de atualização e outras definições</string>
+  <string name="pref_media_summary">Álbuns a serem mostrados, intervalo de atualização e outras definições multimédia</string>
   <string name="pref_media_settings">Definições</string>
   <string name="pref_media_settings_refresh_interval">Intervalo de atualização</string>
   <string name="pref_media_settings_refresh_interval_disable">A procura de novas fotos está desativada</string>
@@ -68,7 +68,7 @@
   <string name="pref_media_settings_refresh_now_summary">Atualizar manualmente a base de dados das imagens</string>
   <string name="pref_media_pictures">Imagens</string>
   <string name="pref_media_albums">Álbuns</string>
-  <string name="pref_media_albums_summary">Definir os álbuns e as fotos que serão exibidas como imagem de fundo</string>
+  <string name="pref_media_albums_summary">Definir que álbuns e fotos serão mostrados como imagem de fundo</string>
   <string name="pref_media_auto_select_new">Selecionar automaticamente os álbuns</string>
   <string name="pref_media_auto_select_new_summary">Selecionar automaticamente novos álbuns quando estes forem encontrados</string>
   <string name="pref_layout">Disposição</string>
