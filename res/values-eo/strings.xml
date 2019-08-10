@@ -16,31 +16,17 @@
      limitations under the License.
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- The application name -->
-  <!-- The app description -->
-  <!-- No images message -->
-  <!-- runtime permission warning -->
-  <!-- Menus -->
-  <string name="mnu_delete">Forigi</string>
-  <string name="mnu_settings">Agordoj</string>
-  <!-- Formats -->
-  <!-- Preferences -->
-  <string name="pref_general_settings">Agordoj</string>
-  <string name="pref_media_settings">Agordoj</string>
-  <string name="pref_media_pictures">Bildoj</string>
-  <string name="pref_media_albums">Albumoj</string>
-  <!-- [2 lines one for describe long tap and another for describe swipe] -->
-  <string name="pref_about">Pri</string>
-  <!-- Refresh intervals -->
-  <string name="refresh_intervals_1h">1 horo</string>
-  <string name="refresh_intervals_4h">4 horoj</string>
-  <string name="refresh_intervals_1d">1 tago</string>
-  <string name="refresh_intervals_2d">2 tagoj</string>
-  <string name="refresh_intervals_1w">1 semajno</string>
-  <!-- Touch actions -->
-  <!-- Transitions -->
-  <!-- Effects -->
-  <!-- ColorPickerDialog -->
-  <string name="color_picker_new_text">Nova:</string>
-  <!-- Changelog dialog -->
+    <string name="mnu_delete">Forigi</string>
+    <string name="mnu_settings">Agordoj</string>
+    <string name="pref_general_settings">Agordoj</string>
+    <string name="pref_media_settings">Agordoj</string>
+    <string name="pref_media_pictures">Bildoj</string>
+    <string name="pref_media_albums">Albumoj</string>
+    <string name="pref_about">Pri</string>
+    <string name="refresh_intervals_1h">1 horo</string>
+    <string name="refresh_intervals_4h">4 horoj</string>
+    <string name="refresh_intervals_1d">1 tago</string>
+    <string name="refresh_intervals_2d">2 tagoj</string>
+    <string name="refresh_intervals_1w">1 semajno</string>
+    <string name="color_picker_new_text">Nova:</string>
 </resources>

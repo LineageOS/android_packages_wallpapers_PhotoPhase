@@ -16,18 +16,11 @@
      limitations under the License.
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- The application name -->
-  <!-- The app description -->
-  <!-- No images message -->
-  <!-- runtime permission warning -->
-  <!-- Menus -->
-  <!-- Formats -->
-  <!-- Preferences -->
-  <!-- [2 lines one for describe long tap and another for describe swipe] -->
-  <!-- Refresh intervals -->
-  <!-- Touch actions -->
-  <!-- Transitions -->
-  <!-- Effects -->
-  <!-- ColorPickerDialog -->
-  <!-- Changelog dialog -->
+    <string name="pref_general_summary">Almennar stillingar, sjónbrellur og millifærslur</string>
+    <string name="pref_general_effects">Sjónbrellur</string>
+    <string name="pref_general_effects_types_summary_format"><xliff:g id="selected">%1$d</xliff:g> of <xliff:g id="total">%2$d</xliff:g> sjónbrellur valdar</string>
+    <string name="effects_noeffect">Venjulegt</string>
+    <string name="effects_crossprocess">Krossferli</string>
+    <string name="effects_outline">Útlína</string>
+    <string name="effects_scanlines">Skjálínur</string>
 </resources>

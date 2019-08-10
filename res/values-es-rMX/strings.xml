@@ -16,19 +16,5 @@
      limitations under the License.
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- The application name -->
-  <!-- The app description -->
-  <!-- No images message -->
-  <!-- runtime permission warning -->
-  <string name="runtime_permission_warning">La aplicación no se puede ejecutar sin permiso para leer el almacenamiento externo.</string>
-  <!-- Menus -->
-  <!-- Formats -->
-  <!-- Preferences -->
-  <!-- [2 lines one for describe long tap and another for describe swipe] -->
-  <!-- Refresh intervals -->
-  <!-- Touch actions -->
-  <!-- Transitions -->
-  <!-- Effects -->
-  <!-- ColorPickerDialog -->
-  <!-- Changelog dialog -->
+    <string name="runtime_permission_warning">La aplicación no se puede ejecutar sin permiso para leer el almacenamiento externo.</string>
 </resources>

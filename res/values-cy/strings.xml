@@ -16,18 +16,125 @@
      limitations under the License.
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- The application name -->
-  <!-- The app description -->
-  <!-- No images message -->
-  <!-- runtime permission warning -->
-  <!-- Menus -->
-  <!-- Formats -->
-  <!-- Preferences -->
-  <!-- [2 lines one for describe long tap and another for describe swipe] -->
-  <!-- Refresh intervals -->
-  <!-- Touch actions -->
-  <!-- Transitions -->
-  <!-- Effects -->
-  <!-- ColorPickerDialog -->
-  <!-- Changelog dialog -->
+    <string name="app_description">Papur Wal Byw PhotoPhase</string>
+    <string name="no_pictures_oops_msg">Ni chanfuwyd unrhyw luniau</string>
+    <string name="runtime_permission_warning">Ni all yr ap redeg heb ganiatâd i ddarllen y storfa allanol.</string>
+    <string name="mnu_restore">Adfer</string>
+    <string name="mnu_delete">Dileu</string>
+    <string name="mnu_settings">Gosodiadau</string>
+    <string name="mnu_select_all">Dewis y cwbl</string>
+    <string name="mnu_deselect_all">Dewis dim</string>
+    <string name="mnu_invert">Gwrthdroi</string>
+    <string name="mnu_select_album">Dewis albwm</string>
+    <string name="mnu_deselect_album">Dad-ddewis albwm</string>
+    <string name="format_disabled">Analluogwyd</string>
+    <string name="format_rotate_only">Wrth gylchdroi</string>
+    <string name="format_seconds">%s eil.</string>
+    <string name="format_minutes">%s mun.</string>
+    <string name="format_hours">%s a.</string>
+    <string name="format_days">%s d.</string>
+    <string name="format_dim">%s%%</string>
+    <string name="pref_general">Cyffredinol</string>
+    <string name="pref_general_summary">Gosodiadau cyffredin, effeithiau a thrawsnewidiadau</string>
+    <string name="pref_general_settings">Gosodiadau</string>
+    <string name="pref_general_settings_wallpaper_dim">Pylu papur wal</string>
+    <string name="pref_general_settings_background_color">Lliw cefndir</string>
+    <string name="pref_general_settings_background_color_summary">Gosod lliw\'r cefndir</string>
+    <string name="pref_general_touch_action">Gweithred cyffyrddiad</string>
+    <string name="pref_general_touch_action_summary_format"><xliff:g id="action_summary">%1$s</xliff:g> wrth gyffwrdd â ffrâm</string>
+    <string name="pref_general_aspect_ratio_correction">Cymhareb agwedd</string>
+    <string name="pref_general_aspect_ratio_correction_summary">Ceisio cywiro cymhareb agwedd y llun gan ei docio i ffitio maint y ffrâm cyrchfan</string>
+    <string name="pref_general_transitions">Trawsnewidiadau</string>
+    <string name="pref_general_transitions_types">Mathau</string>
+    <string name="pref_general_transitions_types_summary_format"><xliff:g id="selected">%1$d</xliff:g> o <xliff:g id="total">%2$d</xliff:g> math wedi\'u dewis</string>
+    <string name="pref_general_transitions_interval">Ysbaid</string>
+    <string name="pref_general_effects">Effeithiau</string>
+    <string name="pref_general_effects_types">Mathau</string>
+    <string name="pref_general_effects_types_summary_format"><xliff:g id="selected">%1$d</xliff:g> o <xliff:g id="total">%2$d</xliff:g> effaith delwedd wedi\'u dewis</string>
+    <string name="pref_media">Cyfryngau</string>
+    <string name="pref_media_summary">Casgliadau i\'w dangos, ysbaid ail-lwytho, a gosodiadau cyfryngau eraill</string>
+    <string name="pref_media_settings">Gosodiadau</string>
+    <string name="pref_media_settings_refresh_interval">Ysbaid ail-lwytho</string>
+    <string name="pref_media_settings_refresh_interval_disable">Analluogwyd chwilio am luniau newydd</string>
+    <string name="pref_media_settings_refresh_interval_summary">Chwilio am luniau newydd pob <xliff:g id="interval">%1$s</xliff:g></string>
+    <string name="pref_media_settings_refresh_now">Ail-lwytho nawr</string>
+    <string name="pref_media_settings_refresh_now_summary">Ail-lwytho\'r gronfa ddata lluniau â llaw</string>
+    <string name="pref_media_pictures">Lluniau</string>
+    <string name="pref_media_albums">Casgliadau</string>
+    <string name="pref_media_albums_summary">Gosod y lluniau a\'r casgliadau caiff eu dangos ar y papur wal</string>
+    <string name="pref_media_auto_select_new">Dewis casgliadau yn awtomatig</string>
+    <string name="pref_media_auto_select_new_summary">Dewis casgliadau newydd yn awtomatig pan fo darganfyddiad cyfryngau newydd yn digwydd</string>
+    <string name="pref_layout">Gosodiad</string>
+    <string name="pref_layout_summary">Lleoli lluniau ar y sgrin</string>
+    <string name="pref_layout_disposition">Trefniant</string>
+    <string name="pref_random_dispositions">Ar hap</string>
+    <string name="pref_random_dispositions_summary">Creu trefniannau ar hap am ysbeidiau y dewisir</string>
+    <string name="pref_random_dispositions_interval">Ysbaid</string>
+    <string name="pref_disposition_portrait">Trefniant portread</string>
+    <string name="pref_disposition_landscape">Trefniant tirlun</string>
+    <plurals name="pref_disposition_summary_format">
+        <item quantity="zero">Dangosir <xliff:g id="count">%1$d</xliff:g> lluniau mewn <xliff:g id="orientation">%2$s</xliff:g></item>
+        <item quantity="one">Dangosir 1 llun mewn <xliff:g id="orientation">%2$s</xliff:g></item>
+        <item quantity="two">Dangosir <xliff:g id="count">%1$d</xliff:g> lun mewn <xliff:g id="orientation">%2$s</xliff:g></item>
+        <item quantity="few">Dangosir <xliff:g id="count">%1$d</xliff:g> llun mewn <xliff:g id="orientation">%2$s</xliff:g></item>
+        <item quantity="many">Dangosir <xliff:g id="count">%1$d</xliff:g> llun mewn <xliff:g id="orientation">%2$s</xliff:g></item>
+        <item quantity="other">Dangosir <xliff:g id="count">%1$d</xliff:g> llun mewn <xliff:g id="orientation">%2$s</xliff:g></item>
+    </plurals>
+    <string name="disposition_orientation_portrait">gorweddiad darlun</string>
+    <string name="disposition_orientation_landscape">gorweddiad tirlun</string>
+    <string name="pref_disposition_description">Rho dap hir ar ffrâm a llusgo a disgyn ei borderi. Llithra i\'r chwith a\'r dde i ddangos templedi a ddiffinnir</string>
+    <string name="pref_disposition_template">Templed <xliff:g id="number_of_template">%1$s</xliff:g> o <xliff:g id="total_of_templates">%2$s</xliff:g></string>
+    <string name="pref_disposition_unable_delete_advise">Methu â dileu\'r fframiau a ddewiswyd</string>
+    <string name="pref_about">Ynghylch</string>
+    <string name="pref_about_summary">PhotoPhase fersiwn <xliff:g id="version">%1$s</xliff:g>\nHawlfraint \u00A9 2014 The CyanogenMod Project</string>
+    <string name="refresh_intervals_disabled">Analluogwyd</string>
+    <string name="refresh_intervals_1h">1 awr</string>
+    <string name="refresh_intervals_4h">4 awr</string>
+    <string name="refresh_intervals_1d">1 diwrnod</string>
+    <string name="refresh_intervals_2d">2 ddiwrnod</string>
+    <string name="refresh_intervals_1w">1 wythnos</string>
+    <string name="touch_actions_none">Dim</string>
+    <string name="touch_actions_transition">Perfformio trawsnewidiad</string>
+    <string name="touch_actions_open">Agor</string>
+    <string name="touch_actions_share">Rhannu</string>
+    <string name="touch_actions_none_summary">Gwneud dim</string>
+    <string name="touch_actions_transition_summary">Perfformio trawsnewidiad delwedd</string>
+    <string name="touch_actions_open_summary">Agor y ddelwedd</string>
+    <string name="touch_actions_share_summary">Rhannu\'r ddelwedd</string>
+    <string name="transitions_cube">Ciwb</string>
+    <string name="transitions_fade">Pylu</string>
+    <string name="transitions_flip">Fflipio</string>
+    <string name="transitions_swap">Cyfnewid</string>
+    <string name="transitions_translation">Cyfieithiad</string>
+    <string name="transitions_window">Ffenestr</string>
+    <string name="effects_noeffect">Arferol</string>
+    <string name="effects_autofix">Awto-drwsio</string>
+    <string name="effects_blur">Aneglurder</string>
+    <string name="effects_crossprocess">Croes broses</string>
+    <string name="effects_documentary">Rhaglen ddogfen</string>
+    <string name="effects_duotone">Deudonol</string>
+    <string name="effects_emboss">Boglynnu</string>
+    <string name="effects_fisheye">Llygad pysgodyn</string>
+    <string name="effects_glow">Tywyn</string>
+    <string name="effects_grain">Graenio</string>
+    <string name="effects_grayscale">Graddlwyd</string>
+    <string name="effects_halftone">Hanner dôn</string>
+    <string name="effects_lomoish">Lomo-aidd</string>
+    <string name="effects_mirror">Adlewyrchu</string>
+    <string name="effects_negative">Negyddol</string>
+    <string name="effects_outline">Amlinell</string>
+    <string name="effects_pixelate">Picseleiddio</string>
+    <string name="effects_popart">Celf pop</string>
+    <string name="effects_posterize">Postereiddio</string>
+    <string name="effects_saturate">Dinoethi</string>
+    <string name="effects_scanlines">Llinellau sganio</string>
+    <string name="effects_sepia">Sepia</string>
+    <string name="effects_temperature">Tymheredd</string>
+    <string name="effects_tint">Tintio</string>
+    <string name="effects_vignette">Portread bychan</string>
+    <string name="color_picker_alpha_slider_text">Alffa</string>
+    <string name="color_picker_current_text">Cyfredol:</string>
+    <string name="color_picker_new_text">Newydd:</string>
+    <string name="color_picker_color">Lliw:</string>
+    <string name="changelog_title">Log newidiadau</string>
 </resources>

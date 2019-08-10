@@ -16,18 +16,28 @@
      limitations under the License.
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- The application name -->
-  <!-- The app description -->
-  <!-- No images message -->
-  <!-- runtime permission warning -->
-  <!-- Menus -->
-  <!-- Formats -->
-  <!-- Preferences -->
-  <!-- [2 lines one for describe long tap and another for describe swipe] -->
-  <!-- Refresh intervals -->
-  <!-- Touch actions -->
-  <!-- Transitions -->
-  <!-- Effects -->
-  <!-- ColorPickerDialog -->
-  <!-- Changelog dialog -->
+    <string name="mnu_delete">Iscantzella</string>
+    <string name="mnu_settings">Cunfiguratziones</string>
+    <string name="format_disabled">Disabilitadu</string>
+    <string name="format_seconds">%s seg.</string>
+    <string name="format_hours">%s oras.</string>
+    <string name="pref_general">Generale</string>
+    <string name="pref_general_summary">Configuratziones generales, efetos e transitziones</string>
+    <string name="pref_general_settings">Cunfiguratziones</string>
+    <string name="pref_media">Mèdia</string>
+    <string name="pref_media_settings">Cunfiguratziones</string>
+    <string name="pref_about">Informatziones</string>
+    <string name="refresh_intervals_disabled">Disabilitadu</string>
+    <string name="refresh_intervals_1d">1 die</string>
+    <string name="refresh_intervals_2d">2 dies</string>
+    <string name="refresh_intervals_1w">1 chida</string>
+    <string name="touch_actions_none">Nudda</string>
+    <string name="touch_actions_open">Aberi</string>
+    <string name="touch_actions_share">Cumpartzi</string>
+    <string name="transitions_fade">Isbiadimentu</string>
+    <string name="transitions_translation">Tradutzione</string>
+    <string name="effects_noeffect">Normale</string>
+    <string name="effects_grain">Granulosidade</string>
+    <string name="effects_sepia">Sèpia</string>
+    <string name="effects_vignette">Vigneta</string>
 </resources>

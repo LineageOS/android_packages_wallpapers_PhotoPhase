@@ -16,6 +16,20 @@
      limitations under the License.
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Number of pictures found in an album -->
-  <!-- Total of pictures found after a media reload -->
+    <plurals name="album_number_of_pictures">
+        <item quantity="zero"><xliff:g id="pictures" example="7">%d</xliff:g> lluniau</item>
+        <item quantity="one">1 llun</item>
+        <item quantity="two"><xliff:g id="pictures" example="7">%d</xliff:g> lun</item>
+        <item quantity="few"><xliff:g id="pictures" example="7">%d</xliff:g> llun</item>
+        <item quantity="many"><xliff:g id="pictures" example="7">%d</xliff:g> llun</item>
+        <item quantity="other"><xliff:g id="pictures" example="7">%d</xliff:g> llun</item>
+    </plurals>
+    <plurals name="msg_media_reload_complete">
+        <item quantity="zero">Wedi ail-lwytho. Darganfuwyd <xliff:g id="pictures" example="7">%d</xliff:g> lluniau.</item>
+        <item quantity="one">Wedi ail-lwytho. Darganfuwyd 1 llun.</item>
+        <item quantity="two">Wedi ail-lwytho. Darganfuwyd <xliff:g id="pictures" example="7">%d</xliff:g> lun.</item>
+        <item quantity="few">Wedi ail-lwytho. Darganfuwyd <xliff:g id="pictures" example="7">%d</xliff:g> llun.</item>
+        <item quantity="many">Wedi ail-lwytho. Darganfuwyd <xliff:g id="pictures" example="7">%d</xliff:g> llun.</item>
+        <item quantity="other">Wedi ail-lwytho. Darganfuwyd <xliff:g id="pictures" example="7">%d</xliff:g> llun.</item>
+    </plurals>
 </resources>
